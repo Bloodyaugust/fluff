@@ -1,15 +1,15 @@
 @import "compass/css3/box-sizing";
 
 //Font
-$text-color: #00CC00;
+$text-color: #FFF;
 
 //General UI
-$ui-highlight: #006363;
-$ui-inactive: #A60000;
-$ui-active: #FF0000;
-$background-color: #5CCCCC;
-$background-color-light: #009999;
-$background-color-alt: #B9F73E;
+$ui-highlight: #84798C;
+$ui-inactive: #5B595C;
+$ui-active: #867E8C;
+$background-color: #151417;
+$background-color-light: #1C181E;
+$background-color-alt: #0F0814;
 
 //Footer
 $footer-border-size: 0.3rem;
@@ -77,7 +77,7 @@ a:visited {
 .canvas-container {
   width: 100%;
   display: block;
-  padding-bottom: 3em;
+  padding-bottom: 10rem;
 }
 
 .footer {
